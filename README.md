@@ -7,7 +7,3 @@
 
 
 
-#### 📈 My GitHub Statistics
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ucupers&" alt="ucupers" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ucupers&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ucupers" /></p>
